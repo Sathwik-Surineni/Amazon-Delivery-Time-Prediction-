@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Amazon%20Delivery%20Time%20Prediction%20project/mlruns/875196491441550387/42520fcdfc2740f4879d40518b8c6bbe/artifacts
+end_time: 1758987599874
+entry_point_name: ''
+experiment_id: '875196491441550387'
+lifecycle_stage: active
+run_id: 42520fcdfc2740f4879d40518b8c6bbe
+run_name: gbr
+run_uuid: 42520fcdfc2740f4879d40518b8c6bbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758987591968
+status: 3
+tags: []
+user_id: user

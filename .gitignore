@@ -1,0 +1,23 @@
+@"
+# Python / build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual envs & env files
+.venv*/
+venv/
+.env
+*.env
+
+# ML artifacts (keep local, don't commit)
+models/
+reports/
+plots/
+
+# Streamlit cache
+.streamlit/
+"@ | Out-File -Encoding utf8 .gitignore
+
